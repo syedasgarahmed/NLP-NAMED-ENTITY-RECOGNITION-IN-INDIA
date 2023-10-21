@@ -1,18 +1,28 @@
 
-## **NLP-NAMED ENTITY RECOGNITION IN INDIA**
+### Screenshots
+![](https://raw.githubusercontent.com/youssefhoummad/pdf-tools/main/docs/img/split.png)
+![](https://raw.githubusercontent.com/youssefhoummad/pdf-tools/main/docs/img/crop.png)
+![](https://raw.githubusercontent.com/youssefhoummad/pdf-tools/main/docs/img/Extract.png)
 
-#### **Abstract:**
-Named Entity Recognition (NER) is a vital task in natural language processing (NLP) that involves identifying and classifying named entities in text. Named Entity Recognition (NER) is a Natural Language Processing (NLP) task that identifies and classifies named entities in text. Named entities are typically proper nouns, such as person names, organization names, and location names. NER is a challenging task for Indian languages, due to the diversity of Indian languages and the lack of resources for training NER systems. This project focuses on the comparison of four algorithms of NER techniques in the context of India. The four different algorithms are CRF (Conditional Random Fields), Stanza, Spacy, and Nameparser. The accuracy of all 4 algorithms is compared with the expected accuracy of all four methods of NER. To calculate the accuracy of four algorithms a large dataset of Indian names is used. A comparison graph was obtained to display the accuracy graph of all four algorithms.
+### Whats new in v2.2.1
+- Add possibilty to preview all pages in croping.
+- Convert pdf to images page by page.
+- Fixed bugs.
 
-#### **Objective:**
+### Whats new in PDF-Tools v2.1.0
+- Support **arabic**: You can choose arabic from about pan.
+- Add new functionality **images to pdf**: Convert multi images to one pdf.
+- Support windows 10 notifications: **Click** on the notification to open the output file.
 
+### All functionality :
+- Split the file between two pages.
+- Merge two files into one file.
+- Crop file from the edges.
+- Extract all images from pdf.
+- Convert pdf to images.
+- Convert multi-images to one file.
 
-1. To compare the performance of four different NER algorithms in the context of Indian languages.
+### Download
+https://github.com/youssefhoummad/pdf-tools/releases/download/v2.2.2/Pdf-tools-installer.exe
 
-1. To identify the strengths and weaknesses of each NER algorithm in the context of Indian languages.
-
-1. To recommend the most appropriate NER algorithm for a particular application.
-
-###### **Full paper available at: ** [NER in India](https://www.irjmets.com/uploadedfiles/paper//issue_7_july_2023/43389/final/fin_irjmets1690082108.pdf "NER in India")
-
-( Contributers can contribute to this project )
+https://github.com/youssefhoummad/pdf-tools/releases/download/v2.2.2/PDF-tools.zip
